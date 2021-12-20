@@ -86,8 +86,6 @@ p{
 }
 
 footer{
-  
-
     background: #111;
     height: auto;
     font-family: "Open Sans";
@@ -152,7 +150,7 @@ footer{
     font-weight: 200;
 }
 
-#myBtn {
+#myBtn{
   display: none;
   position: fixed;
   bottom: 20px;
@@ -168,6 +166,6 @@ footer{
   border-radius: 4px;
 }
 
-#myBtn:hover {
+#myBtn:hover{
   background-color: #555;
 }
